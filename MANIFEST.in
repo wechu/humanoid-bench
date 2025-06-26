@@ -1,2 +1,2 @@
-# include xml files
-recursive-include humanoid-bench/assets *.xml
+# include all assets
+recursive-include humanoid_bench/assets *
